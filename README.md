@@ -120,5 +120,5 @@ student_id	name	age	department	gpa
 
 📸 Output Screenshots
 
-![Output Screenshot](output.png)
+![Output Screenshot](output1.png)
 
