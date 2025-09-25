@@ -118,6 +118,7 @@ student_id	name	age	department	gpa
 4	David Kim	23	Computer Science	3.9
 5	Eva Brown	20	Mathematics	3.6
 
+```
 ---
 
 📸 Output Screenshots:  
